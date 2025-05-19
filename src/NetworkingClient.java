@@ -33,6 +33,7 @@ public class NetworkingClient {
                 System.out.println("Enter your name. Type Bye to exit. ");
 
                 // Read data from standard input device and write it
+
             }
 
         }
